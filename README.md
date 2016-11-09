@@ -4,5 +4,5 @@
 
 喜欢插上移动硬盘就能找到 `HD Video` 和 `示例代码` 的日子。
 
-**try the downloader: https://github.com/lastcc/wwdc**
+**Try the downloader: https://github.com/lastcc/wwdc**
 
